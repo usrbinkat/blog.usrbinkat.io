@@ -1,0 +1,6 @@
+hugo new site hugo
+git clone https://github.com/apvarun/blist-hugo-theme.git hugo/themes/blist
+cd hugo/themes/blist/exampleSite/
+sudo npm install -g postcss-cli
+npm install
+npm start

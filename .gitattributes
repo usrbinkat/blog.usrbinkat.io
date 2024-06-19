@@ -1,0 +1,13 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Declare files that will always have LF line endings on checkout.
+*.sh eol=lf
+*.js eol=lf
+*.md eol=lf
+*.json eol=lf
+
+# Declare files that will always have CRLF line endings on checkout.
+*.bat eol=crlf
+*.cmd eol=crlf
+
