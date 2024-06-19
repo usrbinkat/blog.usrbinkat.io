@@ -7,7 +7,7 @@ keywords: ["about-us", "about-hugo", "contact"]
 type: about
 ---
 
-![Kat Morgan in curls](ubkFace-curly-hoops-bangs.jpg)
+![Kat Morgan in curls](/images/ubkFace-curly-hoops-bangs.jpg)
 
 ## Hello friends!
 
@@ -104,11 +104,9 @@ Flow has become a vital part of my life, representing a harmonious blend of cogn
 
 ### Religion & Spirituality
 
-belief in superior beings, no belief in divinity
-
 In keeping with the atheist' conviction to do rather than to pray, for action rather than passive belief, I strongly identify with the conviction that life should be lived because it is the only chance at living which we are guaranteed.
 
-A recent and new (to me) spiritual belief has sprung up from the study of [UOR](#universal-object-reference). Nature's observance of the [Golden Ratio aka Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence) and persistent exhibition of Exurgence informs my belief in superior beings, or some such consciousness which exceeds the limits of our own.
+A recent and new (to me) spiritual belief has sprung up from the study of [UOR](#universal-object-reference). Nature's observance of the [Golden Ratio / Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_sequence) and persistent exhibition of [Exurgence](#exurgence) informs my belief in superior beings, or some such consciousness which exceeds the limits of our own.
 
 While I fully believe in the likelihood of superior beings I also fully reject the premise of [divinity] and divine beings. All scientifically observable evidence indicates both that conventional religion is exclusively human fabrication, and also that humanity and all life that inhabits earth is entirely independent of divine influence in the present.
 
@@ -121,6 +119,39 @@ I will not attack or otherwise discredit un-provable religious beliefs, however 
 My core beliefs originate from Abrahamic religions and were formed during a time of rigorous study and deep reverence. My lived experience has since proven to me that these ancestral tales are exclusively destructive, and any good seen among the millions who observe them today is due to the great and wholesome empathy which naturally emerges from a well adjusted people or also seen emerging from the hearts of people experienced in trauma on the road to healing and health.
 
 What ever your beliefs, I respect your humanity and dignity above all else and humbly request to be treated with the same due grace and good will.
+
+## Universal Object Reference
+
+Universal Object Reference known as UOR is a newly emerging reference specification originating from a reverse engineering and study of the natural order of the universe.
+
+All perceivable objects, relationships, and ideas appear organized by a commonly observable and fundamental relational graph. This "Natural Graph" is the physical space in and between the space we as humans appear to operate within. Objects, or points in this space are separated by space, time, state, property, dimension, and context. Any one thing that is observably distinct from and individually separate from anything and everything else is itself an object.
+
+Objects may be individual things, a relationship between to things may even be an object in as much as attributes are objects. Immaterial concepts in the abstract are also objects.
+
+To date, there is no common information system capable of comfortably representing material and abstract objects together with a complete knowledge graph interface.
+
+UOR takes on the challenge of functionally publishing, indexing, and distributing, all digital, physical, and abstract objects by leveraging off-the-shelf technologies including the [OCI distribution spec](https://github.com/opencontainers/distribution-spec), [NIST OSCAL](https://pages.nist.gov/OSCAL/), and various category theory principals including [Semantic Triples](https://en.wikipedia.org/wiki/Semantic_triple) to produce a new type of data model which supports addressing and reference of objects by classical name and address attributes, in addition to exposing the features of content addressing and introducing attribute addressing, where an object can be defined by, and discovered by qualities which it is known and articulated to posses.
+
+---
+
+**References**:
+
+1. [Red Hat Emerging Technologies](https://next.redhat.com/2022/07/13/the-uor-framework/)
+1. [Ortelius Learn UOR](https://youtu.be/Dd2ZoVenQL0?si=wnRGWwnQrQeAC3uL)
+1. [Packet Pushers FSJ ep073](https://packetpushers.net/podcasts/full-stack-journey/full-stack-journey-073-finding-and-following-technical-passion-projects/)
+1. [Universal Data Aggregation Framework](https://cd.foundation/announcement/2023/05/08/new-ortelius-sub-project-emporous/)
+1. [Enterprise Neurosystem](https://lists.enterpriseneurosystem.org/archives/list/community@lists.enterpriseneurosystem.org/message/5BX7GRADSDMER4VGXGEYJJHVNSNWY6YG/)
+1. [thersnakeshow - What is UOR?](https://www.tiktok.com/@thersnakeshow/video/7322300728641342763?is_from_webapp=1&sender_device=pc)
+1. [UOR for GitOps](https://www.youtube.com/live/MG-WAciipgo?si=9IUfKsL-ZCQ0DYlI)
+1. [ORAS - New Maintainers](https://oras.land/blog/welcome-new-oras-owners/)
+1. [OCI Distribution Spec](https://github.com/opencontainers/distribution-spec)
+1. [NIST OSCAL](https://pages.nist.gov/OSCAL/)
+1. [Semantic Triples](https://en.wikipedia.org/wiki/Semantic_triple)
+1. [Emporous](https://github.com/emporous)
+1. [Twitter @emporous]()https://twitter.com/Emporous)
+1. [CD Foundation](https://devops.com/cdf-marries-emporous-repository-to-ortelius-management-platform/)
+1. [Ortelius + UOR Roadmap](https://youtu.be/aTgusIWmOwg?si=4b8x8ASNQsHZMk03)
+1. [Emporous.io](https://emporous.io/)
 
 ## Exurgence
 
@@ -177,36 +208,3 @@ Exurgence is a critical concept for understanding how complex behaviors and prop
 2. [Emergence - Wikipedia](https://en.wikipedia.org/wiki/Emergence)
 3. [Internet Encyclopedia of Philosophy - Emergence](https://iep.utm.edu/emergence/)
 4. [New England Complex Systems Institute](https://necsi.edu/emergence)
-
-## Universal Object Reference
-
-Universal Object Reference known as UOR is a newly emerging reference specification originating from a reverse engineering and study of the natural order of the universe.
-
-All perceivable objects, relationships, and ideas appear organized by a commonly observable and fundamental relational graph. This "Natural Graph" is the physical space in and between the space we as humans appear to operate within. Objects, or points in this space are separated by space, time, state, property, dimension, and context. Any one thing that is observably distinct from and individually separate from anything and everything else is itself an object.
-
-Objects may be individual things, a relationship between to things may even be an object in as much as attributes are objects. Immaterial concepts in the abstract are also objects.
-
-To date, there is no common information system capable of comfortably representing material and abstract objects together with a complete knowledge graph interface.
-
-UOR takes on the challenge of functionally publishing, indexing, and distributing, all digital, physical, and abstract objects by leveraging off-the-shelf technologies including the [OCI distribution spec](https://github.com/opencontainers/distribution-spec), [NIST OSCAL](https://pages.nist.gov/OSCAL/), and various category theory principals including [Semantic Triples](https://en.wikipedia.org/wiki/Semantic_triple) to produce a new type of data model which supports addressing and reference of objects by classical name and address attributes, in addition to exposing the features of content addressing and introducing attribute addressing, where an object can be defined by, and discovered by qualities which it is known and articulated to posses.
-
----
-
-**References**:
-
-1. [Red Hat Emerging Technologies](https://next.redhat.com/2022/07/13/the-uor-framework/)
-1. [Ortelius Learn UOR](https://youtu.be/Dd2ZoVenQL0?si=wnRGWwnQrQeAC3uL)
-1. [Packet Pushers FSJ ep073](https://packetpushers.net/podcasts/full-stack-journey/full-stack-journey-073-finding-and-following-technical-passion-projects/)
-1. [Universal Data Aggregation Framework](https://cd.foundation/announcement/2023/05/08/new-ortelius-sub-project-emporous/)
-1. [Enterprise Neurosystem](https://lists.enterpriseneurosystem.org/archives/list/community@lists.enterpriseneurosystem.org/message/5BX7GRADSDMER4VGXGEYJJHVNSNWY6YG/)
-1. [thersnakeshow - What is UOR?](https://www.tiktok.com/@thersnakeshow/video/7322300728641342763?is_from_webapp=1&sender_device=pc)
-1. [UOR for GitOps](https://www.youtube.com/live/MG-WAciipgo?si=9IUfKsL-ZCQ0DYlI)
-1. [ORAS - New Maintainers](https://oras.land/blog/welcome-new-oras-owners/)
-1. [OCI Distribution Spec](https://github.com/opencontainers/distribution-spec)
-1. [NIST OSCAL](https://pages.nist.gov/OSCAL/)
-1. [Semantic Triples](https://en.wikipedia.org/wiki/Semantic_triple)
-1. [Emporous](https://github.com/emporous)
-1. [Twitter @emporous]()https://twitter.com/Emporous)
-1. [CD Foundation](https://devops.com/cdf-marries-emporous-repository-to-ortelius-management-platform/)
-1. [Ortelius + UOR Roadmap](https://youtu.be/aTgusIWmOwg?si=4b8x8ASNQsHZMk03)
-1. [Emporous.io](https://emporous.io/)

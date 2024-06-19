@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emoji on Kat Morgan</title>
-    <link>https://usrbinkat.io/en/tags/emoji/</link>
+    <link>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/emoji/</link>
     <description>Recent content in Emoji on Kat Morgan</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://usrbinkat.io/en/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://usrbinkat.io/en/blog/emoji-support/</link>
+      <link>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/emoji-support/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://usrbinkat.io/en/blog/emoji-support/</guid>
+      <guid>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
   </channel>
