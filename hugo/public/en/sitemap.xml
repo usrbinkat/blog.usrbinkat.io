@@ -2,57 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/page/about/</loc>
-    <lastmod>2024-06-19T00:00:00+00:00</lastmod>
+    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/</loc>
+    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/page/about/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/page/</loc>
     <lastmod>2024-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/emoji/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/emoji-support/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/css/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/html/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/markdown/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/markdown-syntax/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/math-typesetting/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/placeholder-text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/privacy/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/rich-content/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/shortcodes/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/text/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
+    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/blog/</loc>
   </url><url>
     <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/categories/</loc>
+  </url><url>
+    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/cloudflare/</loc>
+  </url><url>
+    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/devops/</loc>
+  </url><url>
+    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/gitops/</loc>
+  </url><url>
+    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/iac/</loc>
+  </url><url>
+    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/opinion/</loc>
+  </url><url>
+    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/pulumi/</loc>
+  </url><url>
+    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/python/</loc>
+  </url><url>
+    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/</loc>
+  </url><url>
+    <loc>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/tech/</loc>
   </url>
 </urlset>

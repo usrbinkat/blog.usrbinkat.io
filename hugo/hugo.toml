@@ -1,8 +1,10 @@
+# https://gohugo.io/getting-started/configuration/
 baseurl = "https://usrbinkat.io"
 metaDataFormat = "yaml"
 title = "Kat Morgan"
 theme = "blist"
 
+enableEmoji = true
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
 [languages]
