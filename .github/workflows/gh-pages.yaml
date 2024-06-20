@@ -11,6 +11,7 @@ jobs:
 
     container:
       image: ghcr.io/containercraft/konductor:latest
+      options: --user runner --security-opt seccomp=unconfine
 
     permissions:
       contents: write
