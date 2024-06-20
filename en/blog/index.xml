@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Kat Morgan</title>
-    <link>https://usrbinkat.io/en/blog/</link>
+    <link>https://usrbinkat.github.io/en/blog/</link>
     <description>Recent content in Blog on Kat Morgan</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://usrbinkat.io/en/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://usrbinkat.github.io/en/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
