@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kat Morgan</title>
-    <link>https://usrbinkat.github.io/en/</link>
-    <description>Recent content on Kat Morgan</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://usrbinkat.github.io/en/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>https://usrbinkat.github.io/en/page/about/</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://usrbinkat.github.io/en/page/about/</guid>
-      <description>Hello friends! My name is Kathryn Morgan, aka Kat among friends or @usrbinkat on socials. Please feel encouraged to reach out if you feel so inspired. I&amp;rsquo;m always down to chat.&#xA;Welcome to my personal home on the interwebs. Mostly a parking place for tech related content as this is largely an outlet for work product that is interesting to me, but of no immediate interest to my professional employers, partners, and projects.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kat Morgan</title><link>https://usrbinkat.github.io/en/</link><description>Recent content on Kat Morgan</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://usrbinkat.github.io/en/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://usrbinkat.github.io/en/page/about/</link><pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate><guid>https://usrbinkat.github.io/en/page/about/</guid><description>Hello friends! My name is Kathryn Morgan, aka Kat among friends or @usrbinkat on socials. Please feel encouraged to reach out if you feel so inspired. I&amp;rsquo;m always down to chat.
+Welcome to my personal home on the interwebs. Mostly a parking place for tech related content as this is largely an outlet for work product that is interesting to me, but of no immediate interest to my professional employers, partners, and projects.</description></item></channel></rss>

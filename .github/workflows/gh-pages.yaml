@@ -21,6 +21,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -52,5 +55,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./hugo/public
+          publish_dir: hugo/public
           publish_branch: gh-pages
+          cname: usrbinkat.github.io
+          enable_jekyll: false
+          commit_message: ${{ github.event.head_commit.message }}

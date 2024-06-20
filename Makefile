@@ -4,4 +4,4 @@ serve: build
 
 build:
 	@echo "Building Hugo site..."
-	@cd ./hugo && hugo --baseURL https://usrbinkat.github.io
+	@cd ./hugo && hugo --minify --baseURL https://usrbinkat.github.io
