@@ -1,5 +1,5 @@
 # https://gohugo.io/getting-started/configuration/
-baseurl = "https://usrbinkat.io"
+baseurl = "https://usrbinkat.github.io"
 metaDataFormat = "yaml"
 title = "Kat Morgan"
 theme = "blist"
