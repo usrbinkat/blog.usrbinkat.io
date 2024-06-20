@@ -40,7 +40,13 @@ jobs:
           extended: true
 
       - name: Build Hugo site
-        run: make build
+        run: |
+          set -ex
+          ls -lah
+          make build
+          ls -lah
+          ls -lah hugo
+          ls -lah hugo/public
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
