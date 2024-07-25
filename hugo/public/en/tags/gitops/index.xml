@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gitops on Kat Morgan</title><link>https://usrbinkat.github.io/en/tags/gitops/</link><description>Recent content in Gitops on Kat Morgan</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://usrbinkat.github.io/en/tags/gitops/index.xml" rel="self" type="application/rss+xml"/><item><title>🎈1yr Pulumi Anniversary!🎊</title><link>https://usrbinkat.github.io/en/blog/one-year-of-pulumi/</link><pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate><guid>https://usrbinkat.github.io/en/blog/one-year-of-pulumi/</guid><description>&lt;p>From learning to code, content engineering, the rise of AI, Platform Engineering and beyond. So much learning, teaching, and creating. I want to talk about it so let&amp;rsquo;s dive in!&lt;/p>
-&lt;p>&amp;ldquo;The art of teaching is the art of assisting discovery&amp;rdquo;
-&lt;br>
-— &lt;cite>Mark Van Dore &lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/cite>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gitops on Kat Morgan</title>
+    <link>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/gitops/</link>
+    <description>Recent content in Gitops on Kat Morgan</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/gitops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎈1yr Pulumi Anniversary!🎊</title>
+      <link>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/one-year-of-pulumi/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/one-year-of-pulumi/</guid>
+      <description>&lt;p&gt;From learning to code, content engineering, the rise of AI, Platform Engineering and beyond. So much learning, teaching, and creating. I want to talk about it so let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;The art of teaching is the art of assisting discovery&amp;rdquo;&#xA;&lt;br&gt;&#xA;— &lt;cite&gt;Mark Van Dore &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

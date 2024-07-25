@@ -238,6 +238,7 @@ Among the most prominently useful discoveries across my collected works to highl
 
 <details>
 <summary>🔎*Click to expand: Pulumi + Kubernetes Content List*</summary>
+
 - [pulumi-iac-minecraft](https://github.com/usrbinkat/pulumi-iac-minecraft)
 - [homelab-apps](https://github.com/usrbinkat/homelab-apps)
 - [pulumi kind native provider for k8s in docker](https://github.com/usrbinkat/pulumi-kind-native)
@@ -246,6 +247,7 @@ Among the most prominently useful discoveries across my collected works to highl
 - [kubernetes reliability](https://x.com/usrbinkat/status/1774839327832555934)
 - [kubernetes q's](https://x.com/usrbinkat/status/1767971546667298927)
 - [kubernetes in prod is hard](https://x.com/usrbinkat/status/1767972721026310534)
+
 </details>
 
 [Pulumi Providers]: https://www.pulumi.com/blog/pulumi-go-boilerplate-v2
