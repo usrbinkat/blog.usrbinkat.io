@@ -5,4 +5,4 @@ serve: build
 build:
 	@echo "Building Hugo site..."
 	@cd ./hugo && npx update-browserslist-db@latest
-	@cd ./hugo && hugo --logLevel=debug --minify --baseURL https://blog.usrbinkat.io
+	@cd ./hugo && hugo --logLevel=debug --minify --baseURL https://blog.usrbinkat.io --ignoreVendorPaths "themes"
