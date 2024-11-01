@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     container:
-      image: docker.io/containercraft/devcontainer
+      image: ghcr.io/containercraft/devcontainer:latest
       options: --user runner --security-opt seccomp=unconfined
 
     permissions:
