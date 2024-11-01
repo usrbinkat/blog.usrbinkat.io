@@ -5,4 +5,4 @@ serve: build
 build:
 	@echo "Building Hugo site..."
 	@cd ./hugo && npx update-browserslist-db@latest
-	@cd ./hugo && hugo --logLevel=debug --minify --baseURL https://blog.usrbinkat.io --ignoreVendorPaths "themes"
+	@cd ./hugo && HUGO_IGNOREERRORS=true HUGO_LOG_LEVEL=debug hugo --minify --baseURL https://blog.usrbinkat.io --ignoreVendorPaths "themes" || (echo "Hugo build failed with error code $$?"; exit 1)
