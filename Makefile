@@ -1,7 +1,7 @@
 serve: build
 	@echo "Starting Hugo server..."
-	@cd ./hugo && hugo serve --disableFastRender --baseURL https://${CODESPACE_NAME}-1313.app.github.dev --appendPort=false
+	@cd ./hugo && hugo serve -logLevel=debug --disableFastRender --baseURL https://${CODESPACE_NAME}-1313.app.github.dev --appendPort=false
 
 build:
 	@echo "Building Hugo site..."
-	@cd ./hugo && hugo --minify --baseURL https://usrbinkat.github.io
+	@cd ./hugo && hugo --logLevel=debug --minify --baseURL https://blog.usrbinkat.io
