@@ -5,7 +5,7 @@ description: "Events, Videos, Blogs, and Code! Celebrating a year of Pulumi DevR
 tags: ["iac", "tech", "blog", "devops", "gitops", "pulumi", "python", "opinion"]
 date: 2024-06-21
 thumbnail: /images/pulumi-waikiki.jpeg
-published: true
+draft: false
 ---
 
 From learning to code, content engineering, the rise of AI, Platform Engineering and beyond. So much learning, teaching, and creating. I want to talk about it so let's dive in!

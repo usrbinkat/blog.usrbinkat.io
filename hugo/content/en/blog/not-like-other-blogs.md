@@ -16,7 +16,7 @@ tags:
   ]
 date: 2024-06-20
 thumbnail: /images/gears.jpg
-published: false
+draft: true
 ---
 
 From motivation, to setup, & deployment - let's talk about this blog and how it's built.
