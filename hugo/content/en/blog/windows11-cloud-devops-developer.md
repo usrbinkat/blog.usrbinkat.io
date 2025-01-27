@@ -4,7 +4,7 @@ title: ""
 description: "Windows 11, WSL2, Ubuntu, Developer Tools, and is Windows for developers finally compelling?"
 tags: ["VSCode", "Cursor.com", "tech", "devops", "rust", "opinion"]
 date: 2025-01-26
-thumbnail: /images/pulumi-waikiki.jpeg
+thumbnail: /images/windows11-cloud-devops-developer.png
 draft: false
 ---
 
