@@ -63,7 +63,7 @@ This guide is an a la carte menu of how I personally set up a new WSL Ubuntu env
 
 [See the setup in action on Bluesky!](https://bsky.app/profile/usrbinkat.io/post/3lgm4mexjj224)
 
-![alt text](image-2.png)
+![alt text](/images/windows11-veilid-rust-dev-workflow.png)
 
 ---
 

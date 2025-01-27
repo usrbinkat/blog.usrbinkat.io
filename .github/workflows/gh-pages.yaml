@@ -57,6 +57,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: hugo/public
           publish_branch: gh-pages
-          cname: usrbinkat.github.io
+          cname: blog.usrbinkat.io
           enable_jekyll: false
           commit_message: ${{ github.event.head_commit.message }}
