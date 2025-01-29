@@ -378,6 +378,11 @@ Happy hacking <3
 
 ---
 
+### Other Useful tools
+
+- [Git For Windows (useful credential helper)](https://gitforwindows.org)
+- [Docker Desktop](https://docs.docker.com/get-started/introduction/get-docker-desktop)
+
 ### References
 
 [^1]: Quote from [Franklin Delanor Roosevelt](https://historymatters.gmu.edu/d/5057/).
