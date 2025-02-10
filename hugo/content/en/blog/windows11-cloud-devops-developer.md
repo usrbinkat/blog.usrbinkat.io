@@ -370,17 +370,18 @@ sudo apt install fonts-firacode
 
 ## 10. Wrap-Up
 
-And there you have it—my a la carte approach to turning Windows 11 into a surprisingly comfortable developer environment, powered by WSL2 Ubuntu, Rust, Neovim, Docker, and more. This configuration allows you to harness both the Windows ecosystem and the familiar Linux tools you know and love.
+And there you have it—my a la carte approach to turning Windows 11 into a surprisingly comfortable developer environment, powered by WSL2 Ubuntu, Rust, Neovim, Docker, and more.
 
-Don’t forget that the tech world is constantly changing. Tools and distributions you swore off years ago might have evolved into something truly worth revisiting. Whether it’s Windows, Linux, or any other platform, keep an open mind and stay curious—because you never know where you’ll find your next productive paradise.
+Don’t forget that the tech world is constantly changing. Tools and distributions you swore off years ago might have evolved into something worth revisiting. Whether it’s Windows, Linux, or any other platform, keep an open mind and stay curious because you never know what's around the river bend.
 
 Happy hacking <3
 
 ---
 
-### References
+### Other Useful tools
 
-[^1]: Quote from [Franklin Delanor Roosevelt](https://historymatters.gmu.edu/d/5057/).
+- [Docker Desktop](https://docs.docker.com/get-started/introduction/get-docker-desktop)
+- [Git For Windows (useful credential helper)](https://gitforwindows.org)
 
 ### Quick Notes
 - **Why Docker?**  
@@ -389,3 +390,7 @@ Happy hacking <3
   For more details on Neovim configuration, see the official [Neovim documentation](https://neovim.io/). 
 - **Links & Versions**  
   All steps above assume **Ubuntu** on **WSL2**. Always check official docs for the latest changes or differences between Ubuntu releases.
+
+### References
+
+[^1]: Quote from [Franklin Delanor Roosevelt](https://historymatters.gmu.edu/d/5057/).
