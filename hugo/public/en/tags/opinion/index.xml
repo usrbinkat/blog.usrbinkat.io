@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opinion on Kat Morgan</title>
-    <link>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/opinion/</link>
+    <link>http://localhost:1313/en/tags/opinion/</link>
     <description>Recent content in Opinion on Kat Morgan</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubernetes VMWare Replacement: Building simplicity with modern technology.</title>
+      <link>http://localhost:1313/en/blog/k8s-bare-metal-vmware-replacement/</link>
+      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/k8s-bare-metal-vmware-replacement/</guid>
+      <description>&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://jurassicpark.fandom.com/wiki/Quote:Ian_Malcolm&#34;&gt;&amp;hellip;your scientists were so preoccupied with whether or not they could, they didn&amp;rsquo;t stop to think if they should.&lt;/a&gt;&amp;rdquo;&#xA;&lt;br&gt;&#xA;— &lt;cite&gt;Dr. Ian Malcolm (Jeff Goldblum) from Jurassic Park&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;&#xA;&lt;p&gt;Building simple technology is a challenging prospect. Evolutions in tech are often cyclical, and stories of innovation today shamelessly echo plot arcs of the past, forming a long tradition back to the mid century generation of early operating system and compiler architectures. Without over-complicating the story, let&amp;rsquo;s explore Kubernetes as a path to making technology simple.&lt;/p&gt;&#xA;&lt;p&gt;Commercial and enterprise industry appetites for new functions, features, and interfaces drive innovators to build next years biggest hits on top of last years hottest trends. However, the hidden cost of hype driven development is organizational entrapment by technical complexity. Year after year, this cycle has expanded both the scope of what technology can do, and also the cost of doing anything with modern tech at all. Case in point, I have seen public projects deploying basic Wordpress blog site at an infrastructure cost of $38K+ a month and infinitely more in original outlay time and money to build.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;The hidden cost of hype driven development is entrapment by technical complexity.&amp;rdquo; — &lt;cite&gt;Kat Morgan[^2]&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;With every successful tooling abstraction adopted at scale, a more complex future of more abstractions built on top of yet more abstractions looms darkly over the horizon of every ambitious simplification dream.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://climate.nasa.gov/news/2540/tree-rings-provide-snapshots-of-earths-past-climate/#:~:text=These%20rings%20can%20tell%20us,the%20late%20summer%20and%20fall.&#34;&gt;Dendrachronology&lt;/a&gt; is the scientific study of historical ecological data recorded in tree rings that form as distinctive patterns of annual growth and capture indicators of climate and environmental conditions throughout a tree&amp;rsquo;s life.&lt;/p&gt;&#xA;&lt;p&gt;Similar to the study of tree rings, a record of individual enterprises can also also emerge in the tech stacks that build each generation of hardware, compute orchestration, and frameworks used in an organization across decades of projects, forming an almost tree ring like chronology of the organization&amp;rsquo;s technical evolution history where each era of technical growth or modernization becomes it&amp;rsquo;s own distinct and permanent layer of the organization as a whole.&lt;/p&gt;&#xA;&lt;p&gt;Under the grueling pressure of short term business deliverables, &amp;ldquo;technical dendrachronology&amp;rdquo; often forms from the accidental permanence of each adopted technology. Innovation can quietly transform forward progress into technical debt landmines among adopters, marrying a business model to technical decisions made in the serenity of simpler organizational states in the company&amp;rsquo;s past. A step towards needlessly impeding future growth and competitiveness, and threatening the corporate survival as a once necessary technology transforms into a benign obligation and an artificial anchor of obsolescence. In the worst cases, requiring a radical corporate makeover to remediate when the best technology paradigm should instead make tech changes as easy as replacing batteries in a remote.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/blog/windows11-cloud-devops-developer/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/blog/windows11-cloud-devops-developer/</guid>
+      <description>&lt;p&gt;&amp;ldquo;&lt;a href=&#34;https://bit.ly/the-only-fear-is-fear-itself&#34;&gt;The only thing we have to fear is fear itself.&lt;/a&gt;&amp;rdquo;&#xA;&lt;br&gt;&#xA;— &lt;cite&gt;Franklin Delanor Roosevelt &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;&#xA;&lt;p&gt;Trying new things and challenging old beliefs is scary sometimes, but it’s also a great way to grow. While it’s fresh on my mind, I decided to document and share my initial setup of WSL Ubuntu, along with some creature comforts and personal preferences. Feel free to peruse each section and try out anything you like in your own system or VM.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🎈1yr Pulumi Anniversary!🎊</title>
-      <link>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/one-year-of-pulumi/</link>
+      <link>http://localhost:1313/en/blog/one-year-of-pulumi/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://cautious-broccoli-p95ggr4vjgcr7vv-1313.app.github.dev/en/blog/one-year-of-pulumi/</guid>
+      <guid>http://localhost:1313/en/blog/one-year-of-pulumi/</guid>
       <description>&lt;p&gt;From learning to code, content engineering, the rise of AI, Platform Engineering and beyond. So much learning, teaching, and creating. I want to talk about it so let&amp;rsquo;s dive in!&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;The art of teaching is the art of assisting discovery&amp;rdquo;&#xA;&lt;br&gt;&#xA;— &lt;cite&gt;Mark Van Dore &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;</description>
     </item>
   </channel>
