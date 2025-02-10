@@ -22,9 +22,9 @@ tags:
 <br>
 — <cite>Dr. Ian Malcolm (Jeff Goldblum) from Jurassic Park[^1]</cite>
 
-Building simple technology is one of the most challenging endeavors in our industry. Technology evolution often follows cyclical patterns, with today's innovations echoing architectural decisions of the past—a tradition stretching back to the mid-century pioneers of operating systems and compiler design. Let's explore how Kubernetes offers a path toward technological simplification without getting lost in unnecessary complexity.
+Building simple technology is one of the most challenging endeavors in our industry. Technology evolution often follows cyclical patterns, with today's innovations echoing architectural decisions of the past—a tradition stretching back to the mid-century pioneers of operating systems and compiler design. Let's explore Kubernetes as a path toward simplification getting too lost in the details for this article.
 
-The commercial and enterprise sectors constantly drive innovation, building next year's breakthrough features on top of this year's trending technologies. However, this hype-driven development carries a hidden cost: organizational entrapment through technical complexity. This cycle has expanded not only the scope of what technology can accomplish but also the cost of implementing even basic solutions. I've witnessed public projects deploying simple WordPress blogs at infrastructure costs exceeding $38,000 per month, with even greater expenses in initial development time and resources.
+The commercial and enterprise and other large sectors of industry constantly drive innovation forward. Practitioners pushing the envelope of the possible by building next year's breakthrough features on top of last year's trending technologies. However, this hype-driven development carries a hidden cost: organizational entrapment through technical complexity. This cycle has expanded not only the scope of what technology can accomplish but also the cost of implementing even basic solutions. Personally, I've witnessed public projects deploying simple WordPress blogs at infrastructure costs up to $38K per month in the public cloud, with even greater outlays in initial development time and resources.
 
 > "The hidden cost of hype-driven development is entrapment by technical complexity." — <cite>Kat Morgan[^2]</cite>
 
@@ -32,7 +32,7 @@ Every successful tooling abstraction adopted at scale seems to herald a more com
 
 Consider [dendrochronology](https://climate.nasa.gov/news/2540/tree-rings-provide-snapshots-of-earths-past-climate/#:~:text=These%20rings%20can%20tell%20us,the%20late%20summer%20and%20fall.), the scientific study of tree rings that record historical ecological data through distinctive patterns of annual growth. Similarly, enterprises develop their own technological growth rings—layers of hardware, compute orchestration, and frameworks that accumulate across decades of projects. Each era of technical modernization becomes a permanent layer in the organization's architecture, forming what we might call "technical dendrochronology."
 
-Under the relentless pressure of short-term business deliverables, this technical stratification often results from the unintended permanence of adopted technologies. Innovation can quietly transform progress into technical debt, binding business models to decisions made during simpler times in an organization's history. This transformation can impede future growth and competitiveness, potentially threatening corporate survival as once-necessary technologies become costly obligations. In the worst cases, organizations require radical restructuring—when ideally, technology paradigms should make changes as simple as replacing batteries in a remote.
+Under the relentless pressure of short-term business deliverables, this technical stratification often results from the unintended permanence of adopted technologies. Innovation necessary for progress can quietly transform into technical obsolescence, chaining business models to technology decisions made during simpler times in an organization's history. This transformation can be malignant at best, or prevent and impede necessary future growth and competitiveness, potentially threatening corporate survival as once-necessary technologies become costly obligations. In the worst cases, organizations require radical restructuring—when ideally, technology paradigms should make changes as simple as replacing batteries in a common tv remote.
 
 ## The Cloud: Evolution or Entrapment?
 
@@ -42,11 +42,11 @@ The Cloud Native Computing Foundation (CNCF) now maintains over 200 projects acr
 
 The profit motives of major tech companies have shifted from competing against on-premise innovation to optimizing the monetization of industries already locked into legacy cloud vendor features. Organizations are easily enticed into deeper vendor dependence through resume-building tech transformations and emerging features that continue to encapsulate them in gilded cages of vendor lock-in.
 
-Consequently, small and medium organizations, along with scientific and academic institutions, face a difficult choice: stick with dusty legacy tech stacks and affordable talent, or bet everything on complex, expensive cloud solutions with competitive labor requirements—all while hoping to survive market disruption from more agile competitors.
+Consequently, small and medium organizations, along with scientific and academic institutions, face a difficult choice: stick with dusty legacy tech stacks and an accessible talent pool, or risk the farm on complex, expensive cloud solutions with competitive labor requirements all while hoping the chosen strategy can survive unpredictable technology market disruption and the risk of higher agility from a more nimble competitor.
 
 ### Virtual Machines: Classic Technology in a Cloud Native World
 
-Hypervisor and container orchestration layers form the backbone of modern computing. From IBM's mainframe virtual machines in the 1960s to the first public cloud hypervisors in the 2000s, hypervisors have been indispensable for efficient computing infrastructure. They enable safe and efficient scheduling of discrete application architectures across shared physical resources through logically isolated virtualized hardware, application containers, or both—sometimes even in multiple layers.
+Hypervisor and container orchestration layers form the backbone of modern computing and stretch back in origin to mid last century. From IBM's mainframe virtual machines in the 1960s to the first public cloud hypervisors in the 2000s, hypervisors have been indispensable for efficient computing infrastructure. They enable safe and efficient scheduling of discrete application architectures across shared physical resources through logically isolated virtualized hardware, application containers, even both in nested architectures.
 
 Type-1 hypervisors include Hyper-V, VMware ESXi, Nutanix, and Xen. KVM (Kernel-based Virtual Machine), my preferred solution, dominates Linux systems today and powers numerous VM platforms including OpenStack, KubeVirt, Firecracker, Libvirt, Proxmox, and others.
 
@@ -60,7 +60,7 @@ The battle for cloud independence began in earnest with the [joint NASA-Rackspac
 
 Enter Kubernetes. Developed at Google to enable innovation at unprecedented scale and velocity, K8s was open-sourced in 2014 with a groundbreaking feature: a programmable API that allows the platform to be customized and extended through Custom Resource Definitions (CRDs).
 
-In my assessment, the CRD represents the most compelling feature of any cloud platform. Even in a post-Kubernetes world, I would be surprised to see any replacement achieve similar adoption and success without offering comparable flexibility and extensibility through programmable interfaces and state-driven reconciliation.
+In my view, the CRD represents the most compelling feature of any cloud platform. Even in a post-Kubernetes world, I would be surprised to see any replacement achieve similar adoption and success without offering comparable flexibility and extensibility through programmable interfaces and state-driven reconciliation.
 
 ## KubeVirt: Virtual Machines on Kubernetes
 
@@ -100,6 +100,8 @@ Kargo represents my fifth architecture iteration toward this goal, evolving from
 From a historical perspective, KubeVirt offers compelling advantages over traditional private and public virtual machine solutions for current and future compute needs. While KubeVirt's implementation continues to evolve and improve, it leverages Kubernetes to meet and exceed the operational efficiency and reliability of more primitive or proprietary virtualization offerings.
 
 Stay tuned for future posts. In an upcoming series, I'll demonstrate how Kargo makes KubeVirt and other kubernetes workloads easy to deploy and operate with a mature production ready integration of components and a simple Platform Engineering and DevOps experience.
+
+Kargo is in active development, and is on a long journey to production readiness. For now it is incubated in the ContainerCraft community of practice for personal use and experimentation.
 
 ---
 
