@@ -1,7 +1,7 @@
 ---
 author: "Kat Morgan"
-title: "Universal Object Reference (UOR): The Hitchhiker's Guide to Baking the Omniverse"
-description: "Reverse engineering the Universe to design a discrete information system of everything.",
+title: "Universal Object Reference: The Hitchhikers Guide to Baking the Omniverse"
+description: "Reverse engineering the Universe to design a discrete information system of everything."
 date: 2025-02-17
 draft: false
 thumbnail: /images/uor-kitchen.png
