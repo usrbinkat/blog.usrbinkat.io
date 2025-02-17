@@ -3,7 +3,8 @@ author: "Kat Morgan"
 title: "Universal Object Reference (UOR): The Hitchhiker's Guide to Baking the Omniverse"
 description: "Reverse engineering the Universe to design a discrete information system of everything.",
 date: 2025-02-17
-draft: true
+draft: false
+thumbnail: /images/uor-kitchen.png
 tags:
   [
     "Science",
@@ -16,6 +17,8 @@ tags:
     "Philosophy"
   ]
 ---
+
+
 
 Imagine stepping into an infinite kitchen, where every conceivable ingredient is at your fingertips. Flour, water, butter, spices—and even more abstract ingredients like time, entropy, and observation—are neatly arranged, waiting to be transformed. This kitchen is more than a metaphor; it’s a mental playground where the Universal Object Reference (UOR) acts as your recipe book, guiding you through the alchemy of combining objects to fundamentally understand and interact with the universe itself. The beauty of this kitchen lies not just in its endless ingredients but in the intricate web of interactions that form when objects observe each other, shaping the very reality they inhabit.
 
