@@ -6,13 +6,11 @@ date: 2025-05-12
 draft: false
 thumbnail: /images/golang-lifecycle-plants.png
 tags:
-[
-  "code",
-  "golang",
-  "developers",
-  "technology",
-  "software engineering",
-]
+  - "code"
+  - "golang"
+  - "developers"
+  - "technology"
+  - "software engineering"
 ---
 
 Starting new projects can be overwhelming, especially when switching to long-forgotten or even new emerging skillsets, languages, and tools.
