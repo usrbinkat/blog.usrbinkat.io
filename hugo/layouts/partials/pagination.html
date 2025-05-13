@@ -1,0 +1,81 @@
+{{/* Custom pagination template */}}
+<div class="pagination">
+  {{ if .Paginator }}
+    <ul class="flex justify-center gap-1 md:gap-2">
+      <!-- Previous page -->
+      {{ if .Paginator.HasPrev }}
+        <li class="pagination-item">
+          <a class="pagination-link" href="{{ .Paginator.Prev.URL }}">
+            <span aria-hidden="true">&laquo;</span>
+            <span class="sr-only">Previous</span>
+          </a>
+        </li>
+      {{ else }}
+        <li class="pagination-item opacity-50">
+          <span class="pagination-link">
+            <span aria-hidden="true">&laquo;</span>
+            <span class="sr-only">Previous</span>
+          </span>
+        </li>
+      {{ end }}
+
+      <!-- Page numbers -->
+      {{ $paginator := .Paginator }}
+      {{ range $paginator.Pagers }}
+        {{ if eq . $paginator }}
+          <li class="pagination-item">
+            <span class="pagination-link bg-primary text-black font-bold">
+              {{ .PageNumber }}
+            </span>
+          </li>
+        {{ else }}
+          <li class="pagination-item">
+            <a class="pagination-link" href="{{ .URL }}">
+              {{ .PageNumber }}
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+
+      <!-- Next page -->
+      {{ if .Paginator.HasNext }}
+        <li class="pagination-item">
+          <a class="pagination-link" href="{{ .Paginator.Next.URL }}">
+            <span aria-hidden="true">&raquo;</span>
+            <span class="sr-only">Next</span>
+          </a>
+        </li>
+      {{ else }}
+        <li class="pagination-item opacity-50">
+          <span class="pagination-link">
+            <span aria-hidden="true">&raquo;</span>
+            <span class="sr-only">Next</span>
+          </span>
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+</div>
+
+<style>
+  .pagination-item {
+    display: inline-block;
+  }
+  
+  .pagination-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.5rem;
+    height: 2.5rem;
+    padding: 0 0.5rem;
+    border-radius: 0.25rem;
+    font-weight: 500;
+    color: currentColor;
+    text-decoration: none;
+  }
+  
+  .pagination-link:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+</style>
